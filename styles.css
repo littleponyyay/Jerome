@@ -1,5 +1,6 @@
 html {background-color: rgb(153, 238, 238);}
 h1 {font-family:'Courier New', Courier, monospace;
-    color: rgb(233, 160, 233)}
+    color: rgb(233, 160, 233);
+    padding: 100px }
 h2 {font:small-caption;
     color: blueviolet}
