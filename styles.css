@@ -1,19 +1,29 @@
+html body {
+        background-color: rgba(145, 68, 145, 0.829);
+        margin:0px;
+        padding:0px;
+        overflow-x: hidden;}
 .section-1 { 
-    background-image: url("456.jpg");
+    height:100vh;
+    width:100vw;
+    background-image: url("./Pictures-for-homepage/Background-picture-1-JP.jpg");
      background-attachment:fixed;
-     background-position:center;
+     background-position:bottom;
      background-size:cover;
-     background-repeat: no-repeat;;
-     height:100vh;
-     width:100vw;
-    }
-    html {
-        background-color: rgba(145, 68, 145, 0.829)
-        ;}
-h1 {
-    font-family: 'nothing you could do';
-    font-size: 60px;
-    color: rgb(233, 160, 233); }
+     background-repeat: no-repeat;}
+.name-littleponyyay {
+    margin:auto;
+    padding:auto; 
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    font-family: "nothing you could do";
+     font-weight: lighter;
+     font-size: 100px;
+     letter-spacing: 20px;
+    color: white;}
+
 h2 {
     font-family:"roboto";
     font-weight:bolder;
